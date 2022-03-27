@@ -4,7 +4,7 @@ Done By Me and team nembers mentioned below
         1.Poornima
         2.SoumyaSanvi
         3.ShristiTyagi
-        4.SanjayByranna
+        4.SanjayByrannanavar
 This project was Displayed @RNSIT COLLEGE in a mini project exhibition
 and the project file are attached with this repository 
 
