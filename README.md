@@ -2,7 +2,7 @@
 CD4060 IC for Time delay circuit
 Done By Me and team members mentioned below
 
- 1. `SanjayByrannanavar`
+ 1. `Sanjay`
  2. `Poornima`
  3. `SoumyaSanvi`
  4. `ShristiTyagi`
